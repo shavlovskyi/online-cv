@@ -8,127 +8,146 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Andrii Shavlovskyi
+    tagline: Delivery Manager, Engineering Manager, CTO, Head of engineering, Head of QA
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: shavlovskyi@yahoo.com
+    phone:
+    timezone: Eastern European Timezone
+    citizenship: Ukrainian
+    website: #do not add http://
+    linkedin: shavlovskyi
+    xing:
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Ukrainian
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: Upper Intermediate
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: In case you are wondering ))
           link:
 
-        - item: Snowboarding
+        - item: Sailing, Kiting
           link:
 
-        - item: Cooking
+        - item: Climbing, Diving
+          link:
+
+        - item: Swimming, Cycling
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced people, engineering and QA manager with over 20 years in IT and over 7 years in product development. Expert in engineering management, agile transformation, SDLC process, quality assurance, CI/CD, time-to-market optimisation and test automation. Proven track record in agile software development modernization, transformation, and time-to-market optimization.
+      Have a product mindset, able to plan and implement long-term projects, and effectively manage teams.
+      Key Achievements:
+      - Built processes for deployment on demand
+      - Transformed team structure to cross-functional teams and integrated deployment on demand.
+      - Improved development culture by eliminating the standalone QA role.
+      - Achieved significant time-to-market acceleration and established stable automation from scratch.
+      - Developed comprehensive competency matrices for all engineers and managed salary adjustments.
+      - Conducted numerous lectures and organized a course on testing at Kyiv Polytechnic Institute.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+      - degree: MSc, Computer Science
+        university: National Technical University of Ukraine 'Kyiv Polytechnic Institute'
+        time: 1997 - 2003
+        details:
+      - degree:
+        university: Kyiv Natural Science Lyceum 145
         time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details:
 
 experiences:
-    title: Experiences
+    title: Experiences (Technical)
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Head of QA and Agile Practice / QA Automation Tech Lead (previous role)
+        time: Aug 2017 - Aug 2024
+        company: TENTENS.Tech by SKELAR
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Led QA automation efforts, implemented CI/CD pipelines
+          - Scrum process implementation
+          - Permanent CI/CD optimisation
+          - Built QA processes and test strategies from scratch for long-term products
+          - Developed and implemented comprehensive test strategies for continuous high-quality product delivery.
+          - Established automation processes and infrastructure in the cloud.
+          - Led a team of up to 15 QA engineers (manual, automation, and security)
+          - Member of the architectural board in the company
+          - Achieved significant improvements in time-to-market and deployment efficiency
+          Achievements:
+            - DORA metrics:
+                - Deployment frequency: on demand (30+ daily) from 2 times a week
+                - Change failure rate: les than 10%
+                - Lead time for changes: 11 minute average
+                - Time to restore services: less than 2 hours
+            - Fundamental changes in the culture and structure of development teams (cross-functional teams, noQA teams, self-managing teams)
+            - Developed and delivered several comprehensive courses and numerous lectures at the Software Engineering School, QA School etc
+            - Conducted  200+ interviews with engineers of various levels. Bar-raising interviewer for QA engineers
+            - Execute more than 70,000 E2E auto tests daily, less than 10 min for run (Java+Selenium; playwright+JS)
+
+      - role: QA Automation Engineer
+        time: May 2015 - Aug 2017
+        company: IntroPro
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          - Test automation for BigData components(Oozie; Flume; Hive; HDFS; HBase; NoSQL; Phoenix);
+          - Web services testing (REST; JSON; XML);
+          - Hadoop Workbench is an IDE for Hadoop family (big-data, cloud). The web-based application which create an integrated environment for create and control and managing and controlling Hadoop based Applications (Oozie, Flume, HDFS, etc.) as well as Hadoop internal subsystems
+          - Automation testing: Protractor (Jasmine, Chai), WebDriverJS;
+
+      - role: IT Specialist
+        time: Dec 2013 - May 2015
+        company: Johnson & Johnson
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Analyzed user and product requirements, developed test cases and suites.
+          - Managed QA automation and software testing for business processes.
+          Achievements:
+          - Effective cooperation with test engineers and developers, resulting in a successful transition from Microsoft ERP Navision v4 to v13
+
+      - role: Infrastructure Engineer
+        time: Feb 2005 - Jan 2007
+        company: Persha Studia (Wargaming.net)
+        details: |
+          - Managed a team of 3, migrated business processes to open-source platforms.
+          - Analyzed, supported, and upgraded IT infrastructure, performed database optimization.
+          - Prepared complex reports from various databases
+          - Migrated data from/to different storages (ETL)
+          Achievements:
+          - Some of the software was transferred from pirated versions (those were the days) to free or open source versions. For instance: msSQL to Postgres
+
+      - role: Programmer/Lead Programmer and Analyst
+        time: Sep 2002 - Feb 2005
+        company: Soft Irbis
+        details: |
+          - Developed complex systems for large enterprises, managed full development cycles.
+          - Analyzed business processes, created technical specifications, and led project modules.
+          - MsSQL and Visual Basic
+
+      - role: Programmer
+        time: 2000 - 2002
+        company: Mirasoft-PRO
+        details: |
+          - Developed internal software for reporting using MsSQL and Visual Basic.
 
 certifications:
       title: Certifications
@@ -140,20 +159,7 @@ certifications:
           credentialid: 111-222
           credentialurl: www.google.com
           credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+          details:
         - name: Git learning
           start: 2019
           end:
@@ -243,23 +249,38 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: QA Automation
+        level:
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Process Management
+        level:
 
-      - name: Angular
-        level: 98%
+      - name: Engineering Management
+        level:
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Agile Methodologies
+        level:
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Scaled Agile Framework
+        level:
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: CI/CD
+        level:
+
+      - name: Business oriented
+        level:
+
+      - name: Business Process Management
+        level:
+
+      - name: Software Testing
+        level:
+
+      - name: Team Leadership
+        level:
+
+      - name: SDLC Process Optimization
+        level:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
